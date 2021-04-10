@@ -1,0 +1,8 @@
+class AI{
+    constructor(){
+
+    }
+    nextMove(){
+        
+    }
+}
